@@ -40,7 +40,7 @@ HoldRodCastDuration := 1000
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "ň"
+NavigationKey := "\"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
@@ -60,7 +60,7 @@ ClickScanDelay := 100
 RepeatBypassCounter := 10
 
 ; Seconds for navigation shake to be considered failed
-NavigationShakeFailsafe := 30
+NavigationShakeFailsafe := 4
 ; Delay between each "S+Enter" in miliseconds
 NavigationSpamDelay := 10
 
